@@ -88,14 +88,6 @@ const Gallery = () => {
             className="block w-full h-full object-cover object-center absolute right-0 animate-parallax [animation-timeline:view(x)]"
           />
         </div>
-
-        <div className="slide flex-shrink-0 w-[70vw] h-[calc(70vw*1.5)] sm:w-[40vw] sm:h-[calc(40vw*1.5)] md:w-[25vw] md:h-[calc(25vw*1.5)] overflow-clip relative mx-2 snap-center rounded-3xl">
-          <img
-            src="https://images.pexels.com/photos/1722179/pexels-photo-1722179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-            alt="Image 10"
-            className="block w-full h-full object-cover object-center absolute right-0 animate-parallax [animation-timeline:view(x)]"
-          />
-        </div>
       </div>
     </div>
   );
