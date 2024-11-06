@@ -1,14 +1,13 @@
 import React from "react";
 
-import gall1 from "../image/gall1.jpg";
-import gall2 from "../image/gall2.JPG";
-import gall3 from "../image/gall3.JPG";
-import gall4 from "../image/gall4.jpg";
-import gall5 from "../image/gall5.jpg";
-import gall6 from "../image/gall6.jpg";
-import gall7 from "../image/gall7.jpg";
-import gall8 from "../image/gall8.jpg";
-import gall9 from "../image/gall9.jpg";
+import canv1 from "../image/canv1.jpg";
+import canv2 from "../image/canv2.jpg";
+import canv3 from "../image/canv3.jpg";
+import canv4 from "../image/canv4.jpg";
+import canv5 from "../image/canv5.jpg";
+import canv6 from "../image/canv6.jpg";
+import canv7 from "../image/canv7.jpg";
+import canv8 from "../image/gall8.jpg";
 
 const Canvas = () => {
   return (
@@ -17,18 +16,18 @@ const Canvas = () => {
         Canvas Works
       </h1>
       <div className="wrapper">
-        <img src={gall1} alt="Woods" />
-        <img src={gall2} alt="Beach" />
-        <img src={gall3} alt="Hills" />
-        <img src={gall4} alt="p5" />
-        <img src={gall5} alt="" aria-hidden="true" />
-        <img src={gall6} alt="" aria-hidden="true" />
-        <img src={gall7} alt="" aria-hidden="true" />
-        <img src={gall8} alt="" aria-hidden="true" />
-        <img src={gall8} alt="" aria-hidden="true" />
-        <img src={gall8} alt="" aria-hidden="true" />
-        <img src={gall8} alt="" aria-hidden="true" />
-        <img src={gall8} alt="" aria-hidden="true" />
+        <img src={canv1} alt="canvas 1" />
+        <img src={canv2} alt="canvas 2" />
+        <img src={canv3} alt="canvas 3" />
+        <img src={canv4} alt="canvas 4" />
+        <img src={canv5} alt="canvas 5" aria-hidden="true" />
+        <img src={canv6} alt="canvas 6" aria-hidden="true" />
+        <img src={canv7} alt="canvas 7" aria-hidden="true" />
+        <img src={canv8} alt="canvas 8" aria-hidden="true" />
+        <img src={canv1} alt="canvas 9" aria-hidden="true" />
+        <img src={canv2} alt="canvas 10" aria-hidden="true" />
+        <img src={canv3} alt="canvas 11" aria-hidden="true" />
+        <img src={canv4} alt="canvas 12" aria-hidden="true" />
       </div>
     </div>
   );

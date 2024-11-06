@@ -2,7 +2,7 @@ import React from "react";
 import gall7 from "../image/gall7.jpg";
 import gall8 from "../image/gall8.jpg";
 import gall9 from "../image/gall9.jpg";
-
+import front from "../image/front.jpg";
 const HeroHeader = () => {
   return (
     <>
@@ -37,7 +37,7 @@ const HeroHeader = () => {
                 <div>
                   <img
                     className="inline-block mt-24 md:mt-0 p-8 md:p-0"
-                    src="https://user-images.githubusercontent.com/54521023/116969931-bedb0100-acd4-11eb-99a9-ff5e0ee9f31f.png"
+                    src={front}
                   />
                 </div>
                 <div>

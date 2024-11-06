@@ -52,11 +52,12 @@ const About = () => {
               Indore, Madhya Pradesh
             </p>
             <p className="pt-8 text-sm">
-              Stark is initially depicted as an industrialist, genius inventor,
-              and playboy who is CEO of Stark Industries. Initially the chief
-              weapons manufacturer for the U.S. military, he has a change of
-              heart and redirects his technical knowledge into the creation of
-              mechanized suits of armor which he uses to defend earth.
+              Iriz Tattoos is your go-to tattoo studio in Indore, located at The
+              Hub, Scheme No. 78, near Vrindavan Restaurant. We specialize in
+              custom tattoo designs and unique artwork, providing a welcoming
+              environment for art lovers. Our skilled artists transform your
+              ideas into beautiful, lasting tattoos. We also showcase exclusive
+              paintings to inspire creativity.
             </p>
 
             <div className="pt-12 pb-8 zoom">
@@ -71,15 +72,15 @@ const About = () => {
             <div className="mt-6 pb-16 lg:pb-0 w-4/5 lg:w-full mx-auto flex flex-wrap items-center justify-between">
               <a
                 className="link"
-                href="https://www.facebook.com/tonystarkpage/"
-                data-tippy-content="@tonystarkpage"
+                href="https://www.facebook.com/share/15BKUAfjWt/?mibextid=LQQJ4d"
+                data-tippy-content="@tamistraa"
               >
                 <i className="fa fa-2x fa-facebook h-6 fill-current text-gray-600 hover:text-blue-700" />
               </a>
               <a
                 className="link"
-                href="https://twitter.com/iron_man"
-                data-tippy-content="@iron_man"
+                href="https://x.com/iriztattooz?t=Or8PTb1q8Byj_abvD9pA9w&s=35"
+                data-tippy-content="@tamistraa"
               >
                 <i className="fa fa-2x fa-twitter h-6 fill-current text-gray-600 hover:text-blue-700" />
               </a>
@@ -92,8 +93,8 @@ const About = () => {
               </a>
               <a
                 className="link"
-                href="https://unsplash.com/s/photos/tony-stark"
-                data-tippy-content="@unsplash_handle"
+                href="https://www.facebook.com/share/15BKUAfjWt/?mibextid=LQQJ4d"
+                data-tippy-content="@tamistraa"
               >
                 <i className="fa fa-2x fa-youtube h-6 fill-current text-gray-600 hover:text-red-700" />
               </a>
