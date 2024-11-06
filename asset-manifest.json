@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8949e52e.css",
-    "main.js": "/static/js/main.140127a4.js",
+    "main.css": "/static/css/main.cfa1c6d0.css",
+    "main.js": "/static/js/main.16dee956.js",
     "static/js/453.8377d3b9.chunk.js": "/static/js/453.8377d3b9.chunk.js",
+    "static/media/canv4.jpg": "/static/media/canv4.27d0f7523b19fd3daedf.jpg",
+    "static/media/canv8.jpg": "/static/media/canv8.2ce79220206833af8b9f.jpg",
     "static/media/edited.jpg": "/static/media/edited.d1d2478568ea948f1711.jpg",
+    "static/media/canv9.jpg": "/static/media/canv9.e78cbbabd9b63c5b2725.jpg",
+    "static/media/canv1.jpg": "/static/media/canv1.53074add4de02e1005c4.jpg",
+    "static/media/canv3.jpg": "/static/media/canv3.fa0bf74a7c9ce216ef14.jpg",
+    "static/media/canv6.jpg": "/static/media/canv6.562a0e42eb78618ca3ca.jpg",
     "static/media/gall9.jpg": "/static/media/gall9.08efd984ebb00446e281.jpg",
     "static/media/profilesm.jpg": "/static/media/profilesm.111106d7401fbd0345b4.jpg",
     "static/media/gall6.jpg": "/static/media/gall6.b019f70a5502cd094d4a.jpg",
     "static/media/gall8.jpg": "/static/media/gall8.13255fabe43b580adfe7.jpg",
     "static/media/gall1.jpg": "/static/media/gall1.1ffde15ec2866fa5fd39.jpg",
+    "static/media/canv5.jpg": "/static/media/canv5.71b785f27954b8630fd7.jpg",
+    "static/media/canv7.jpg": "/static/media/canv7.074d50ab2b44d8c22fb2.jpg",
     "static/media/gall7.jpg": "/static/media/gall7.35de0b9c803c2dd43583.jpg",
     "static/media/gall4.jpg": "/static/media/gall4.44e976f3962aa45739f3.jpg",
     "static/media/gall2.JPG": "/static/media/gall2.302fe9134d294c9384f3.JPG",
@@ -16,17 +24,21 @@
     "static/media/Logo.PNG": "/static/media/Logo.d84241f7705967c5c746.PNG",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/gall3.JPG": "/static/media/gall3.5ec72a1637b73143b113.JPG",
+    "static/media/canv2.jpg": "/static/media/canv2.dc46c15d8b039bc83175.jpg",
+    "static/media/front.png": "/static/media/front.cdbef055664f6e073ada.png",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/front2.png": "/static/media/front2.3d455c62a4c8a74df9c0.png",
+    "static/media/front1.png": "/static/media/front1.9649d26a5f90587a94a4.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/index.html",
-    "main.8949e52e.css.map": "/static/css/main.8949e52e.css.map",
-    "main.140127a4.js.map": "/static/js/main.140127a4.js.map",
+    "main.cfa1c6d0.css.map": "/static/css/main.cfa1c6d0.css.map",
+    "main.16dee956.js.map": "/static/js/main.16dee956.js.map",
     "453.8377d3b9.chunk.js.map": "/static/js/453.8377d3b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8949e52e.css",
-    "static/js/main.140127a4.js"
+    "static/css/main.cfa1c6d0.css",
+    "static/js/main.16dee956.js"
   ]
 }
